@@ -30,13 +30,6 @@ const workerConfig = {
       tooltip: 'Aocro Git',
     },
     {
-      id: 'outline',
-      name: 'Note',
-      method: 'GET',
-      target: 'https://note.aocro.com',
-      tooltip: 'Aocro Note',
-    },
-    {
       id: 'ittools',
       name: 'Tools',
       method: 'GET',
